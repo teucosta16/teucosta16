@@ -3,12 +3,6 @@
 - 🌱 Estudando JavaScript/HTML/CSS/Python
 - ⚡ Eu não sou rico :(
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
-
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
-
 <div align="center">
   <a href="https://github.com/teucosta">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=teucosta16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
