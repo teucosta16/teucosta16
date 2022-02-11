@@ -1,4 +1,4 @@
-### Olá, mundo!👋 Eu sou o Mateus
+### Olá, mundo!👋 Eu sou o Mateus.
 
 - 🌱 Estudando JavaScript/HTML/CSS/Python
 - ⚡ Eu não sou rico :(
