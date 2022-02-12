@@ -3,6 +3,10 @@
 - 🌱 Estudando JavaScript/HTML/CSS/Python
 - ⚡ Eu não sou rico :(
 
+<h2>
+	<b> Estudando... </b> <img align="left" src="readme.assets/prog.gif" width="29px">
+</h2>
+
 <div align="center">
   <a href="https://github.com/teucosta">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=teucosta16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
