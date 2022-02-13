@@ -4,8 +4,9 @@
 - ⚡ Eu não sou rico :(
 
 <h2>
-	<b> Estudando... </b> <img align="left" src="readme.assets/prog.gif" width="29px">
+	<b> </b> <img align="left" src="readme.assets/prog.gif" width="170px">
 </h2>
+
 
 <div align="center">
   <a href="https://github.com/teucosta">
