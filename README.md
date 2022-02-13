@@ -1,7 +1,7 @@
 ### Olá, mundo!👋 Eu sou o Mateus.
 
 - ⚡ Eu não sou rico :(
-- - 🌱 Estudando JavaScript/HTML/CSS/Python
+-  🌱 Estudando JavaScript/HTML/CSS/Python
 
 ##
 
