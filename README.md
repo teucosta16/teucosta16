@@ -4,7 +4,7 @@
 - ⚡ Eu não sou rico :(
 
 <h2>
-	<b> </b> <img align="left" src="readme.assets/prog.gif" width="170px">
+	<b> </b> <img align="left" src="readme.assets/prog.gif" width="175px">
 </h2>
 
 
