@@ -4,14 +4,14 @@
 - ⚡ Eu não sou rico :(
 
 <h2>
-	<b> </b> <img align="left" src="readme.assets/prog.gif" width="165px">
+	<b> </b> <img align="left" src="readme.assets/prog.gif" width="150px">
 </h2>
 
 
 <div align="center">
   <a href="https://github.com/teucosta">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=teucosta16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teucosta16&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=teucosta16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teucosta16&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
